@@ -392,8 +392,6 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
-        
-      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
@@ -422,8 +420,6 @@
   
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -432,11 +428,26 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#pueto-80-abierto" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pueto 80 Abierto
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Pueto 80 Abierto">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#scan-script-http-enum" class="md-nav__link">
     <span class="md-ellipsis">
       Scan script http-enum
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -883,11 +894,15 @@
                   
 
 
+  <h1>Nmap</h1>
+
 <p>Inicamos reconocimiento con nmap
 <div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>sudo<span class="w"> </span>nmap<span class="w"> </span>-p-<span class="w"> </span>--open<span class="w"> </span>-sS<span class="w"> </span>-vvv<span class="w"> </span>-n<span class="w"> </span>-Pn<span class="w"> </span><span class="m">131</span>.72.235.168
 </code></pre></div></p>
-<h1 id="pueto-80-abierto">Pueto 80 Abierto</h1>
-<h2 id="scan-script-http-enum">Scan script http-enum</h2>
+<h2 id="pueto-80-abierto">Pueto 80 Abierto</h2>
+<h3 id="scan-script-http-enum">Scan script http-enum</h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>nmap<span class="w"> </span><span class="o">[</span>port<span class="o">]</span><span class="w"> </span>--script<span class="o">=</span>http-enum<span class="w"> </span><span class="o">[</span>target<span class="o">]</span><span class="w"> </span>The<span class="w"> </span>http-
+</code></pre></div>
 
 
 
