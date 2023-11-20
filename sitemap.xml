@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://nanoit-cl.github.io/</loc>
+         <loc>https://nanoit-cl.github.io/site/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/Github/</loc>
+         <loc>https://nanoit-cl.github.io/site/Github/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/Nmap/</loc>
+         <loc>https://nanoit-cl.github.io/site/Nmap/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/configuration/</loc>
+         <loc>https://nanoit-cl.github.io/site/configuration/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/portlis/</loc>
+         <loc>https://nanoit-cl.github.io/site/portlis/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/user-guide/</loc>
+         <loc>https://nanoit-cl.github.io/site/user-guide/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/Hack%20The%20Bok/Apuntes/Exploit/</loc>
+         <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/Apuntes/Exploit/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/Hack%20The%20Bok/Apuntes/Reconocimiento./</loc>
+         <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/Apuntes/Reconocimiento./</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
