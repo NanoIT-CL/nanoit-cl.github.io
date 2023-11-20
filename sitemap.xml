@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/site/Github/</loc>
-         <lastmod>2023-11-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://nanoit-cl.github.io/site/Nmap/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
@@ -26,7 +21,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nanoit-cl.github.io/site/user-guide/</loc>
+         <loc>https://nanoit-cl.github.io/site/Csharp/Jwt/</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nanoit-cl.github.io/site/Github/Github/</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -37,6 +42,16 @@
     </url>
     <url>
          <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/Apuntes/Reconocimiento./</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/Writeup/inyect/</loc>
+         <lastmod>2023-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nanoit-cl.github.io/site/Hack%20The%20Bok/Writeup/json/</loc>
          <lastmod>2023-11-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
