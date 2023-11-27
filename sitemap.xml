@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://nanoit-cl.github.io/Csharp/Dotnet7/</loc>
+         <lastmod>2023-11-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://nanoit-cl.github.io/Csharp/Jwt/</loc>
          <lastmod>2023-11-27</lastmod>
          <changefreq>daily</changefreq>
